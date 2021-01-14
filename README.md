@@ -1,1 +1,1 @@
-# Bean-Leaf-Health-Detection-with-Deep-NeuralNets-from-Scratch
+# Bean-Leaf-Disease-Detection-with-Deep-NeuralNets-from-Scratch
